@@ -1,12 +1,4 @@
-## Hi there 👋
 
-<!--
+VIER is redefining customer dialogue and communication. VIER GmbH makes contact-based business processes more efficient and user experience measurably better. VIER combines artificial and human intelligence and offers simple solutions for complex omnichannel communication. Our cloudbased, innovative AI solutions ensure real dialogue and proximity to the customer. 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Get more: [vier.ai](https://www.vier.ai/)
